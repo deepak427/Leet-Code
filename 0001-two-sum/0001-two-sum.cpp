@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-         map<int, int> m_nums;
+        map<int, int> m_nums;
         for(int i = 0; i< nums.size(); ++i){
             m_nums[nums[i]] = i;
         }
@@ -16,6 +16,7 @@ public:
                     return result;                    
                 }
             }
+            m_nums.erase(nums[i]);
         }
         vector<int> result;
         return result;

@@ -5,9 +5,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepak427/Leet-Code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/deepak427/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/deepak427/Leet-Code/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepak427/Leet-Code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/deepak427/Leet-Code/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/deepak427/Leet-Code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

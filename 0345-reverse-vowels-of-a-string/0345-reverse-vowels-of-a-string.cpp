@@ -4,7 +4,7 @@ public:
         int start = 0;
         int end = s.length()-1;
 
-        while(start < end){
+        while(start <= end){
             while(start < end && (s[start] != 'a' && s[start] != 'e' && s[start] != 'i'  && s[start] != 'o' && s[start] != 'u' && s[start] != 'A' && s[start] != 'E' && s[start] != 'I'  && s[start] != 'O' && s[start] != 'U' )){
                 start++;
             }

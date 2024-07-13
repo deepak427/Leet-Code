@@ -1,19 +1,21 @@
 class Solution {
 public:
     string reverseVowels(string &s) {
-        vector<char> s_vec;
+        int start = 0;
+        int end = s.length()-1;
 
-        for(auto &c: s){
-            if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U'){
-                s_vec.push_back(c);
+        while(start < end){
+            while(start < end && (s[start] != 'a' && s[start] != 'e' && s[start] != 'i'  && s[start] != 'o' && s[start] != 'u' && s[start] != 'A' && s[start] != 'E' && s[start] != 'I'  && s[start] != 'O' && s[start] != 'U' )){
+                start++;
             }
-        }
 
-        for(int i =0;i< s.size();++i){
-            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u' || s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U'){
-                s[i] = s_vec[s_vec.size()-1];
-                s_vec.pop_back();
+            while(start < end && (s[end] != 'a' && s[end] != 'e' && s[end] != 'i'  && s[end] != 'o' && s[end] != 'u' && s[end] != 'A' && s[end] != 'E' && s[end] != 'I'  && s[end] != 'O' && s[end] != 'U' )){
+                end--;
             }
+
+            swap(s[start], s[end]);
+            start++;
+            end--;
         }
 
         return s;

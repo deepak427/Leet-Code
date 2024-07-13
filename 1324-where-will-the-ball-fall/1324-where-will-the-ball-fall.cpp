@@ -6,16 +6,16 @@ public:
             result.push_back(i);
         }
         for(auto &row: grid){
-            for(int j = 0; j < result.size(); ++j){
-                if( result[j] != -1){
-                    if( result[j]+row[result[j]] == result.size() ||  result[j]+row[result[j]] == -1){
-                        result[j] = -1;              
+            for(auto &cell: result){
+                if( cell != -1){
+                    if( cell+row[cell] == result.size() ||  cell+row[cell] == -1){
+                        cell = -1;              
                     }
                     else {
-                        if(row[result[j]] == row[ result[j]+row[result[j]]]){
-                            result[j] = result[j] + row[result[j]];
+                        if(row[cell] == row[ cell+row[cell]]){
+                            cell = cell + row[cell];
                         }else {
-                            result[j] = -1;
+                            cell = -1;
                         }
                     }
                 }

@@ -5,15 +5,15 @@ public:
         for(int i = 0; i < grid[0].size(); ++i){
             result.push_back(i);
         }
-        for(int i = 0; i < grid.size(); ++i){
+        for(auto &row: grid){
             for(int j = 0; j < result.size(); ++j){
                 if( result[j] != -1){
-                    if( result[j]+grid[i][result[j]] == result.size() ||  result[j]+grid[i][result[j]] == -1){
+                    if( result[j]+row[result[j]] == result.size() ||  result[j]+row[result[j]] == -1){
                         result[j] = -1;              
                     }
                     else {
-                        if(grid[i][result[j]] == grid[i][ result[j]+grid[i][result[j]]]){
-                            result[j] = result[j] + grid[i][result[j]];
+                        if(row[result[j]] == row[ result[j]+row[result[j]]]){
+                            result[j] = result[j] + row[result[j]];
                         }else {
                             result[j] = -1;
                         }

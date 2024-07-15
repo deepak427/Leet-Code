@@ -1,16 +1,17 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int n_z = 0;
+        int a = nums.size();
         for(int i = 0; i< nums.size();++i){
+            if(i ==a ){
+                break;
+            }
             if(nums[i] == 0){
                 nums.erase(nums.begin() + i);
-                n_z++;
+                nums.push_back(0);
                 i--;
+                a--;
             }
-        }
-        for(int i = 0; i < n_z; ++i){
-            nums.push_back(0);
         }
     }
 };

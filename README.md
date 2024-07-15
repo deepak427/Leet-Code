@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/deepak427/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/deepak427/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/deepak427/Leet-Code/tree/master/1324-where-will-the-ball-fall) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepak427/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 <!---LeetCode Topics End-->

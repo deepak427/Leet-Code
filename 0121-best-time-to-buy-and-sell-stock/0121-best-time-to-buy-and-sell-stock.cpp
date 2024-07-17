@@ -7,7 +7,8 @@ public:
         for(int &value: prices){
             if(value < buy){
                 buy = value;
-            }else if((value-buy) > profit){
+            }
+            if((value-buy) > profit){
                 profit = (value-buy);
             }
         }

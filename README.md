@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [1293-three-consecutive-odds](https://github.com/deepak427/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/deepak427/Leet-Code/tree/master/1324-where-will-the-ball-fall) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/deepak427/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepak427/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |

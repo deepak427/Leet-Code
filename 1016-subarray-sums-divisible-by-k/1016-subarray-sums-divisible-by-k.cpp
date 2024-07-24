@@ -7,6 +7,10 @@ public:
 
         m[0] = 1;
 
+        if(nums.size() == 0){
+            return 0;
+        }
+
         for(int i: nums){
             sum = sum + i;
             int mod = sum%k;

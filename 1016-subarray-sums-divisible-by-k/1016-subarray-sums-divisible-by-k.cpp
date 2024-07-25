@@ -7,10 +7,6 @@ public:
 
         m[0] = 1;
 
-        if(nums.size() == 0){
-            return 0;
-        }
-
         for(int i: nums){
             sum = sum + i;
             int mod = sum%k;
@@ -22,7 +18,6 @@ public:
             if(m.find(mod) != m.end()){
                 count = count+m[mod];
             }
-
             m[mod]++;
         }
 

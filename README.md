@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/deepak427/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/deepak427/Leet-Code/tree/master/1324-where-will-the-ball-fall) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
+## Graph
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->

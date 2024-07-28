@@ -22,10 +22,12 @@ public:
 
         for(int i = 0; i < noOfChars; ++i){
             for(int j = 0; j < noOfChars; ++j){
-                for(int k =0; k < noOfChars; ++k){
-                    int intermediateCost = graph[j][i] + graph[i][k];
-                    if(intermediateCost < graph[j][k]){
-                        graph[j][k] = intermediateCost;
+                if(graph[j][i] < INF){
+                    for(int k =0; k < noOfChars; ++k){
+                        int intermediateCost = graph[j][i] + graph[i][k];
+                        if(intermediateCost < graph[j][k]){
+                            graph[j][k] = intermediateCost;
+                        }
                     }
                 }
             }

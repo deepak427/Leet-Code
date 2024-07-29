@@ -1,20 +1,22 @@
 class Solution {
 public:
     int nonSpecialCount(int l, int r) {
-        vector<bool> v(sqrt(r)+1, 1);
+        int n = sqrt(r);
+
+        vector<bool> v(n+1, 1);
         v[0] = 0;
         v[1] = 0;
 
         int result = 0;
 
-        for(int i =2; i <= sqrt(r); ++i){
+        for(int i =2; i <= n; ++i){
             if(v[i]){
                 int squared = i*i;
                 if((squared >= l) && (squared <= r)){
                     result++;
                 }
 
-                for(int j = i*i; j <=sqrt(r); j+=i){
+                for(int j = i*i; j <=n; j+=i){
                     v[j] = 0;
                 }
             }

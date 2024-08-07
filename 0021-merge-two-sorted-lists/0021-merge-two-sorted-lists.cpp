@@ -15,15 +15,11 @@ public:
         ListNode* next = list2;
         ListNode* result = list1;
 
-        if(list1 == nullptr && list2 == nullptr){
-            return list1;
-        }
-
-        if(list1 == nullptr && list2 != nullptr){
+        if(list1 == nullptr){
             return list2;
         }
 
-        if(list2 == nullptr && list1 != nullptr){
+        if(list2 == nullptr){
             return list1;
         } 
 

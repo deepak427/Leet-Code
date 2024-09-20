@@ -32,9 +32,9 @@ public:
             return result->next;
         }
 
-        int fromStart = length - n -1;
+        int fromStart = length - n;
 
-        for(int i = 0; i < fromStart; ++i){
+        for(int i = 0; i < fromStart-1; ++i){
             head = head->next;
         }
 

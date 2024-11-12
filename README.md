@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepak427/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/deepak427/Leet-Code/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepak427/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/deepak427/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepak427/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

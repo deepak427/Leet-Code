@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deepak427/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepak427/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/deepak427/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepak427/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/deepak427/Leet-Code/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/deepak427/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/deepak427/Leet-Code/tree/master/1755-defuse-the-bomb) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/deepak427/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/deepak427/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |

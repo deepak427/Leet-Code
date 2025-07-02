@@ -3,25 +3,23 @@ public:
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
         int start = 0, end = 0, product = 1, output = 0;
 
-        if(k == 0){
+        if((k == 0) || (k == 1)){
             return 0;
         }
 
-        while(start < nums.size()){
+        while(end < nums.size()){
             product = product*nums[end];
             if(product < k){
-                ++output;
-                if(end != (nums.size()-1)){
+                output = output + (end-start) + 1;
+                ++end;
+            }else{
+                if(start == end){
+                    product = (product/nums[start]);
                     ++end;
                 }else{
-                    product = 1;
-                    ++start;
-                    end = start;
+                    product = (product/nums[start])/nums[end];
                 }
-            }else{
-                product = 1;
                 ++start;
-                end = start;
             }
         }
 

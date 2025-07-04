@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/deepak427/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepak427/Leet-Code/tree/master/1138-grumpy-bookstore-owner) |
+| [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/deepak427/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/deepak427/Leet-Code/tree/master/1755-defuse-the-bomb) |
 ## String
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/deepak427/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/deepak427/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Graph
 |  |

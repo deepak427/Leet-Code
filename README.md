@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1138-grumpy-bookstore-owner](https://github.com/deepak427/Leet-Code/tree/master/1138-grumpy-bookstore-owner) |
 | [1293-three-consecutive-odds](https://github.com/deepak427/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1324-where-will-the-ball-fall](https://github.com/deepak427/Leet-Code/tree/master/1324-where-will-the-ball-fall) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/deepak427/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/deepak427/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [1138-grumpy-bookstore-owner](https://github.com/deepak427/Leet-Code/tree/master/1138-grumpy-bookstore-owner) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/deepak427/Leet-Code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/deepak427/Leet-Code/tree/master/1755-defuse-the-bomb) |
 ## String

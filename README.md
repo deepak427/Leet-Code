@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepak427/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepak427/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/deepak427/Leet-Code/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepak427/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepak427/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
 | ------- |

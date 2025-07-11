@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/deepak427/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/deepak427/Leet-Code/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/deepak427/Leet-Code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deepak427/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepak427/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepak427/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepak427/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak427/Leet-Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepak427/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak427/Leet-Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepak427/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/deepak427/Leet-Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deepak427/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->

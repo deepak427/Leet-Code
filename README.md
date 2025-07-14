@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/deepak427/Leet-Code/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/deepak427/Leet-Code/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepak427/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/deepak427/Leet-Code/tree/master/2211-k-radius-subarray-averages) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## String
 |  |
 | ------- |

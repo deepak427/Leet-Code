@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/deepak427/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/deepak427/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [1324-where-will-the-ball-fall](https://github.com/deepak427/Leet-Code/tree/master/1324-where-will-the-ball-fall) |
 ## Simulation
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/deepak427/Leet-Code/tree/master/0623-add-one-row-to-tree) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/deepak427/Leet-Code/tree/master/0623-add-one-row-to-tree) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepak427/Leet-Code/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
@@ -333,4 +337,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/deepak427/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/deepak427/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deepak427/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/deepak427/Leet-Code/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/deepak427/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/deepak427/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepak427/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deepak427/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/deepak427/Leet-Code/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak427/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/deepak427/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepak427/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/deepak427/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/deepak427/Leet-Code/tree/master/0202-happy-number) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepak427/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |

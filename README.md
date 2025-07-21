@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/deepak427/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/deepak427/Leet-Code/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepak427/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/deepak427/Leet-Code/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/deepak427/Leet-Code/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |

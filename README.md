@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepak427/Leet-Code/tree/master/1138-grumpy-bookstore-owner) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepak427/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
+| [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepak427/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/deepak427/Leet-Code/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
+| [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepak427/Leet-Code/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |

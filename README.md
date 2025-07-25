@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/deepak427/Leet-Code/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/deepak427/Leet-Code/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/deepak427/Leet-Code/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
+| [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
 ## Rolling Hash
 |  |
 | ------- |

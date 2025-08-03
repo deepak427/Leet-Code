@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/deepak427/Leet-Code/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/deepak427/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/deepak427/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak427/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/deepak427/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepak427/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/deepak427/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/deepak427/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/deepak427/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepak427/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/deepak427/Leet-Code/tree/master/0623-add-one-row-to-tree) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepak427/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepak427/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/deepak427/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/deepak427/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/deepak427/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepak427/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/deepak427/Leet-Code/tree/master/0623-add-one-row-to-tree) |

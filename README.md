@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/deepak427/Leet-Code/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/deepak427/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/deepak427/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/deepak427/Leet-Code/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/deepak427/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/deepak427/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/deepak427/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/deepak427/Leet-Code/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/deepak427/Leet-Code/tree/master/0441-arranging-coins) |
+| [0556-next-greater-element-iii](https://github.com/deepak427/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |

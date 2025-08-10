@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/deepak427/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepak427/Leet-Code/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/deepak427/Leet-Code/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

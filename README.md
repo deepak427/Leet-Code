@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepak427/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/deepak427/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepak427/Leet-Code/tree/master/1138-grumpy-bookstore-owner) |
 | [1293-three-consecutive-odds](https://github.com/deepak427/Leet-Code/tree/master/1293-three-consecutive-odds) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepak427/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/deepak427/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 ## Dynamic Programming
 |  |

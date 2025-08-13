@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/deepak427/Leet-Code/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/deepak427/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepak427/Leet-Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/deepak427/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/deepak427/Leet-Code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/deepak427/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/deepak427/Leet-Code/tree/master/2211-k-radius-subarray-averages) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/deepak427/Leet-Code/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/deepak427/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## String
 |  |
 | ------- |

@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepak427/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/deepak427/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepak427/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/deepak427/Leet-Code/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/deepak427/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/deepak427/Leet-Code/tree/master/0561-array-partition) |
+| [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepak427/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/deepak427/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/deepak427/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/deepak427/Leet-Code/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/deepak427/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 ## Recursion
 |  |
 | ------- |

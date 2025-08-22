@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/deepak427/Leet-Code/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/deepak427/Leet-Code/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/deepak427/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepak427/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/deepak427/Leet-Code/tree/master/0561-array-partition) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/deepak427/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/deepak427/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepak427/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0690-employee-importance](https://github.com/deepak427/Leet-Code/tree/master/0690-employee-importance) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/deepak427/Leet-Code/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/deepak427/Leet-Code/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/deepak427/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/deepak427/Leet-Code/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 ## Sliding Window
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/deepak427/Leet-Code/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/deepak427/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/deepak427/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepak427/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/deepak427/Leet-Code/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/deepak427/Leet-Code/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |

@@ -4,11 +4,13 @@ public:
         sort(citations.begin(), citations.end());
         int n = citations.size();
 
-        int hValue = 0;
-        for(int i = n-1; i >=0; --i){
-            if(citations[i]>=n-i) ++hValue;
-            else break;
+        int low = 0, high = n-1;
+        while(low<high){
+            int mid = low+(high-low)/2;
+
+            if(citations[mid]>=n-mid) high=mid;
+            else low=mid+1;
         }
-        return hValue;
+        return min(n-low, citations[low]);
     }
 };

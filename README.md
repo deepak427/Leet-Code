@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/deepak427/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/deepak427/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/deepak427/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/deepak427/Leet-Code/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/deepak427/Leet-Code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/deepak427/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepak427/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/deepak427/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/deepak427/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/deepak427/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepak427/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/deepak427/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/deepak427/Leet-Code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/deepak427/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/deepak427/Leet-Code/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepak427/Leet-Code/tree/master/0380-insert-delete-getrandom-o1) |

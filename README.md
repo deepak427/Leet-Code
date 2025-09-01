@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/deepak427/Leet-Code/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/deepak427/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/deepak427/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/deepak427/Leet-Code/tree/master/0397-integer-replacement) |
 | [0672-bulb-switcher-ii](https://github.com/deepak427/Leet-Code/tree/master/0672-bulb-switcher-ii) |
 | [2478-longest-nice-subarray](https://github.com/deepak427/Leet-Code/tree/master/2478-longest-nice-subarray) |
 ## Rolling Hash
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepak427/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak427/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/deepak427/Leet-Code/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/deepak427/Leet-Code/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/deepak427/Leet-Code/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepak427/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/deepak427/Leet-Code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/deepak427/Leet-Code/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/deepak427/Leet-Code/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/deepak427/Leet-Code/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/deepak427/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/deepak427/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/deepak427/Leet-Code/tree/master/0455-assign-cookies) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/deepak427/Leet-Code/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0852-friends-of-appropriate-ages](https://github.com/deepak427/Leet-Code/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepak427/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/deepak427/Leet-Code/tree/master/0907-koko-eating-bananas) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/deepak427/Leet-Code/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepak427/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
+| [0852-friends-of-appropriate-ages](https://github.com/deepak427/Leet-Code/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 ## Sliding Window
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/deepak427/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/deepak427/Leet-Code/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0852-friends-of-appropriate-ages](https://github.com/deepak427/Leet-Code/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/deepak427/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/deepak427/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0852-friends-of-appropriate-ages](https://github.com/deepak427/Leet-Code/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepak427/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/deepak427/Leet-Code/tree/master/0907-koko-eating-bananas) |

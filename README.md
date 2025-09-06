@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [0841-shortest-distance-to-a-character](https://github.com/deepak427/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/deepak427/Leet-Code/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/deepak427/Leet-Code/tree/master/0853-most-profit-assigning-work) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/deepak427/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepak427/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
+| [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [1324-where-will-the-ball-fall](https://github.com/deepak427/Leet-Code/tree/master/1324-where-will-the-ball-fall) |
 ## Simulation
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/deepak427/Leet-Code/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/deepak427/Leet-Code/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepak427/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/deepak427/Leet-Code/tree/master/0397-integer-replacement) |
+| [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/deepak427/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/deepak427/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/deepak427/Leet-Code/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepak427/Leet-Code/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/deepak427/Leet-Code/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 ## Bucket Sort
 |  |

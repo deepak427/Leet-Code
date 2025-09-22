@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/deepak427/Leet-Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/deepak427/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/deepak427/Leet-Code/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/deepak427/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/deepak427/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/deepak427/Leet-Code/tree/master/0048-rotate-image) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/deepak427/Leet-Code/tree/master/0039-combination-sum) |
 | [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 ## Bucket Sort

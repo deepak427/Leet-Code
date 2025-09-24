@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> res;
     void backtrack(vector<int>& nums, vector<int> currentPass,
-                   unordered_set<int> currentPassSet) {
+                   unordered_set<int> &currentPassSet) {
         if (currentPass.size() == nums.size()) {
             res.push_back(currentPass);
             return;

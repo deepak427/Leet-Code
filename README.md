@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/deepak427/Leet-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/deepak427/Leet-Code/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/deepak427/Leet-Code/tree/master/0077-combinations) |
 | [0787-sliding-puzzle](https://github.com/deepak427/Leet-Code/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/deepak427/Leet-Code/tree/master/0813-all-paths-from-source-to-target) |
 ## Bucket Sort

@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/deepak427/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/deepak427/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/deepak427/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deepak427/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/deepak427/Leet-Code/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/deepak427/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/deepak427/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepak427/Leet-Code/tree/master/1138-grumpy-bookstore-owner) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/deepak427/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/deepak427/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/deepak427/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/deepak427/Leet-Code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/deepak427/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/deepak427/Leet-Code/tree/master/0481-magical-string) |

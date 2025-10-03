@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepak427/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/deepak427/Leet-Code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/deepak427/Leet-Code/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak427/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepak427/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/deepak427/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/deepak427/Leet-Code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/deepak427/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepak427/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepak427/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepak427/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/deepak427/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
